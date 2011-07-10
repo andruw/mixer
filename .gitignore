@@ -1,1 +1,7 @@
 /nbproject
+/templates_c/
+/temp/
+/cache/
+!/templates_c/.htaccess
+!/temp/.htaccess
+!/cache/.htaccess
