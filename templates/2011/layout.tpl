@@ -8,6 +8,6 @@
 	</head>
 
 	<body>
-		
+		{include $contentSection}
 	</body>
 </html>
