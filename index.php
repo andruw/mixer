@@ -8,7 +8,7 @@ require DIR_LIBS . '/core/controller.php';
 require(DIR_LIBS . '/smarty/Smarty.class.php');
 
 require DIR_LIBS . '/core/loader.php';
-require DOCUMENT_ROOT . '/view/home.php';
-require DOCUMENT_ROOT . '/view/gallery.php';
+require DOCUMENT_ROOT . '/controller/home.php';
+require DOCUMENT_ROOT . '/controller/gallery.php';
 
 Enviroment::run();
